@@ -1,0 +1,61 @@
+.card{
+    position: relative;
+    height: 200px;
+    width: 150px;
+    border-radius: 30px;
+    background-color: rgba(32, 32, 32, 0.897);
+    color: white;
+    height: 250px;
+    width: 200px;
+    overflow:hidden;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.footer{
+    font-family: "Montserrat", sans-serif;
+    position: absolute;
+    bottom: 0px;
+    width:75%;
+}
+.desc{
+    font-family: "Montserrat", sans-serif;
+    margin-top: 10px;
+    font-size: 15px;
+    margin: 0px 20px;
+}
+.detail{
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+.close{
+    cursor: pointer;
+    font-size: 25px;
+}
+.close:hover{
+    background: #2a2a2a;
+    border-radius: 50%;
+}
+.size{
+    font-family: "Montserrat", sans-serif ;
+}
+.download{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;  
+    width: 200px;
+    height: 40px;
+    font-size: 10px;
+    background-color: #16a34a;
+    font-family: "Montserrat", sans-serif;
+}
+.file{
+    margin: 0px 20px;
+    margin-top: 20px;
+}
