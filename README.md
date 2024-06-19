@@ -17,7 +17,7 @@ React Docs App is a web application built using React.js that allows users to ad
 
 ## Demo
 
-Check out the live demo [here](https://docs-app-pi.vercel.app/).
+Check out the live demo [here](https://my-docs-pi.vercel.app/).
 
 ## Setup
 
